@@ -11,5 +11,3 @@ function names (firstName,lastName){
 }
 
 module.exports = names;
-
-console.log(names('Pierpaolo', 'Dellioio'));

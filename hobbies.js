@@ -9,5 +9,3 @@ function hobbies (hobbyOne, hobbyTwo, hobbyThree){
 }
 
 module.exports = hobbies;
-
-console.log(hobbies('football', 'films', 'videogames'));
